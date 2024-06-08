@@ -4,6 +4,12 @@
 Cookies necessários para utilização são: li_at.
 Qualquer dúvida -h
 
+usuário e senha:<br>
+cgbzf5u4@duck.com
+avaliacao@bugsam
+
+
+
 Integrantes:<br>
 Alexandre Ferreira Lima - RM552529
 Mateus da Silva Taveira - RM552436
