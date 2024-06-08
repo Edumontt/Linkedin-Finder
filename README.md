@@ -4,7 +4,7 @@
 Cookies necessários para utilização são: li_at.
 Qualquer dúvida -h
 
-Integrantes
+Integrantes:<br>
 Alexandre Ferreira Lima - RM552529
 Mateus da Silva Taveira - RM552436
 Eduardo Bernardes Montefusco - RM98109
