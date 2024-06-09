@@ -4,10 +4,6 @@
 Cookies necessários para utilização são: li_at.
 Qualquer dúvida -h
 
-usuário e senha:<br>
-cgbzf5u4@duck.com
-avaliacao@bugsam
-
 
 
 Integrantes:<br>
